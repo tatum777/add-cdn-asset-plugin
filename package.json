@@ -1,0 +1,25 @@
+{
+  "name": "add-cdn-asset-plugin",
+  "version": "1.0.0",
+  "description": "基于html-webpack-plugin动态插入cdn数据到 html模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatum777/AddCdnAssetPlugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatum777/AddCdnAssetPlugin/issues"
+  },
+  "homepage": "https://github.com/tatum777/AddCdnAssetPlugin#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.49.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
